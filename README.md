@@ -1,2 +1,2 @@
 # Hima_AcademicProjects
-Deep Learning projects
+Deep Learning and other projects
